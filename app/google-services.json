@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "400222289047",
+    "firebase_url": "https://android-rainist.firebaseio.com",
+    "project_id": "android-rainist",
+    "storage_bucket": "android-rainist.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400222289047:android:c00fce89f324893a",
+        "android_client_info": {
+          "package_name": "lee.jaebeom.rainist_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400222289047-nvhhpeui7lndti8fkt49pl5noq1srlva.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "lee.jaebeom.rainist_android",
+            "certificate_hash": "a6ee57e35c1662770ce6a2bbc8728dc30f3e64b2"
+          }
+        },
+        {
+          "client_id": "400222289047-gjaufqje1gaiugod4aiu004qv360e0lr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYPuJ0BfAsX0NEF5fXHLWiWywmo1_Bplw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400222289047-gjaufqje1gaiugod4aiu004qv360e0lr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

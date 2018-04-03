@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">rainist_android</string>
+    <string name="app_name">이재범 과제면접</string>
     <string name="title_activity_main">MainActivity</string>
     <string name="tab_text_1">Tab 1</string>
     <string name="tab_text_2">Tab 2</string>
@@ -8,4 +8,13 @@
     <string name="section_format">Hello World from section: %1$d</string>
 
     <string name="default_user">googlesamples</string>
+    <!--여기를 변경해주세요. (access_token)-->
+    <string name="access_token">2da85aa2aa1b8939e06332b1b9750b58828028c6</string>
+    <string name="access_token2">9687f72e4fc7b33ec4179092696519b5b4178221</string>
+
+    <string name="key_repository">repositories</string>
+    <string name="key_star_gazer">starGazers</string>
+    <string name="default_progress_text">repository 목록을 받아오는 중입니다.</string>
+    <string name="default_fragment_name_text">유저 혹은 레파지토리를 선택해주세요</string>
+    <string name="default_dialog_no_network">인터넷이 연결되어 있지 않습니다. WIFI나 데이터를 연결해 주세요.</string>
 </resources>

@@ -7,4 +7,5 @@
     <color name="textPrimary">#1a1a1a</color>
     <color name="textSecondary">#585858</color>
     <color name="textLightly">#797979</color>
+    <color name="tabTextUnselected">#82ffffff</color>
 </resources>
